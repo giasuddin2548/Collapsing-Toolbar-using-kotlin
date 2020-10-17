@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Collapsing Toolbar</string>
+    <string name="dammyText">Androidx is a major upgrade to previously used support libraries, providing backward compatibility across Android versions. In this tutorial, we will use latest androidx jetpack along with material design libraries for captioned UI view.
+App bars can be customised to accommodate image, toolbar and can react to different scrolling effects like elements sliding through in and out of view. This is made possible by using Coordinator Layout as parent container, in junction with App bar and CollapsingBar layouts.
+        Androidx is a major upgrade to previously used support libraries, providing backward compatibility across Android versions. In this tutorial, we will use latest androidx jetpack along with material design libraries for captioned UI view.
+App bars can be customised to accommodate image, toolbar and can react to different scrolling effects like elements sliding through in and out of view. This is made possible by using Coordinator Layout as parent container, in junction with App bar and CollapsingBar layouts.
+        Androidx is a major upgrade to previously used support libraries, providing backward compatibility across Android versions. In this tutorial, we will use latest androidx jetpack along with material design libraries for captioned UI view.
+App bars can be customised to accommodate image, toolbar and can react to different scrolling effects like elements sliding through in and out of view. This is made possible by using Coordinator Layout as parent container, in junction with App bar and CollapsingBar layouts.
+</string>
+
+</resources>
